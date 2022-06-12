@@ -1,0 +1,215 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 364,
+      "type": "VEC3",
+      "max": [
+        0.0624508373439312,
+        0.19032947719097137,
+        0.0624508373439312
+      ],
+      "min": [
+        -0.0624508373439312,
+        -0.19032947719097137,
+        -0.0624508373439312
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 364,
+      "type": "VEC3",
+      "max": [
+        0.99773383140563965,
+        1.0,
+        0.99773383140563965
+      ],
+      "min": [
+        -0.99773383140563965,
+        -1.0,
+        -0.99773383140563965
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 364,
+      "type": "VEC4",
+      "max": [
+        1.0,
+        0.09777195006608963,
+        0.99991047382354736,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.097771346569061279,
+        -1.0,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 364,
+      "type": "VEC2",
+      "max": [
+        1.0000001192092896,
+        1.0
+      ],
+      "min": [
+        -1.1920928955078125E-07,
+        1.7452734812906101E-09
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 364,
+      "type": "VEC2",
+      "max": [
+        0.99670743942260742,
+        2.4673342704772949
+      ],
+      "min": [
+        0.0032922029495239258,
+        -4.6620640754699707
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5125,
+      "count": 1632,
+      "type": "SCALAR",
+      "max": [
+        363.0
+      ],
+      "min": [
+        0.0
+      ]
+    }
+  ],
+  "asset": {
+    "generator": "UnityGLTF (2019.3.6f1)",
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "uri": "Unity2Skfb.bin",
+      "byteLength": 26912
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 4368
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 4368,
+      "byteLength": 4368
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 8736,
+      "byteLength": 5824
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 14560,
+      "byteLength": 2912
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 17472,
+      "byteLength": 2912
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 20384,
+      "byteLength": 6528
+    }
+  ],
+  "images": [
+    {
+      "uri": "18924_pin.jpg",
+      "name": "pin"
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.784313738,
+          0.784313738,
+          0.784313738,
+          1.0
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.25099995732307434,
+        "roughnessFactor": 0.375
+      },
+      "name": "pin"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4
+          },
+          "indices": 5,
+          "material": 0
+        }
+      ],
+      "name": "Pin"
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "translation": [
+        14.71,
+        0.19,
+        -18.067
+      ],
+      "name": "Pin"
+    }
+  ],
+  "samplers": [
+    {
+      "minFilter": 9729
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ],
+      "name": "Unity2Skfb"
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0,
+      "name": "pin"
+    }
+  ]
+}
